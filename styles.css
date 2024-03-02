@@ -5,6 +5,7 @@
   font-family: sans-serif;
 }
 .navbar {
+  background-color: #faf9f6;
   width: 100%;
   height: 100px;
   display: flex;
@@ -20,6 +21,7 @@
 }
 
 .navbar ul li {
+  background-color: #faf9f6;
   padding: 10px 30px;
   position: relative;
 }
@@ -71,4 +73,18 @@
   background-color: #c40c2f;
   color: #fff;
   font-weight: 800;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  height: 40px;
+  outline: 0;
+  border-width: 0 0 2px;
+  background: transparent;
+  font-size: large;
+  margin-left: 14px;
 }
