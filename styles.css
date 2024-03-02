@@ -1,3 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+    #shoes{
+        width: 100%;
+        height: auto;
+        border: 0px solid;
+
+        
+    }
+#box{
+    width: 24%;
+    height: auto;
+    display: inline-block;
+    border: 0px;
+    box-sizing: border-box;
+    padding: 1px;
+    margin-left: 2px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+
+}
+
+
 * {
   margin: 0;
   padding: 0;
