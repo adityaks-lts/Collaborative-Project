@@ -45,6 +45,7 @@ margin-right: 15px;
 }
 
 .top-header-space{
+  width: 100%;
   cursor: pointer;
   background-color: #252525;
   display: flex;
