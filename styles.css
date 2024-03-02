@@ -2,12 +2,10 @@ body{
     padding: 0;
     margin: 0;
 }
-    #shoes{
-        width: 100%;
-        height: auto;
-        border: 0px solid;
-
-        
+#shoes{
+    width: 100%;
+    height: auto;
+    border: 0px solid;
     }
 #box{
     width: 24%;
@@ -25,7 +23,48 @@ img{
     display: block;
 
 }
+.aditya-birla-group-download-logo{
+    width: 45px;
+    height: 49px;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
+.top-header-element{
+  color: #fff;
+  display: flex;
+  margin-right: 20px;
+  
+}
+.top-header-element p{
+  border-right: 1px solid #555555;
+}
+.top-header-element .material-symbols-outlined{
+margin-right: 15px;
+}
+
+.top-header-space{
+  width: 100%;
+  cursor: pointer;
+  background-color: #252525;
+  display: flex;
+  padding: 0px 8px;
+}
+
+#top-right-elements{
+  align-items: center;
+  /* text-align: center; */
+  margin-left: 52%;
+}
+#more-brand{
+  padding: 10px;
+}
+#brand-select{
+  color: #fff;
+  background-color: #252525;
+  border: #252525;
+}
 
 * {
   margin: 0;
